@@ -24,4 +24,3 @@ Demonstrated advanced SQL skills by extracting, transforming, and analyzing data
 | `D211_Dashboard.twb` | Tableau workbook |
 | `churn_clean.csv` | Churn dataset |
 | `acs_income_by_zip.csv` | Census income data |
-| `D211 Performance Assessment.docx` | Written report |
